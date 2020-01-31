@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02afe495-d3d6-4a3a-b8aa-f74d94778632" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ngx-audio-player-master/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ngx-audio-player-master/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngx-audio-player-master/src/app/auth/auth.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ngx-audio-player-master/src/app/auth/auth.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngx-audio-player-master/src/app/home/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/ngx-audio-player-master/src/app/home/home.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngx-audio-player-master/src/app/login/login.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ngx-audio-player-master/src/app/login/login.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngx-audio-player-master/src/app/services/player/player.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ngx-audio-player-master/src/app/services/player/player.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngx-audio-player-master/src/app/services/playlistManager/playlist.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ngx-audio-player-master/src/app/services/playlistManager/playlist.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngx-audio-player-master/src/app/services/song/song.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ngx-audio-player-master/src/app/services/song/song.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngx-audio-player-master/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ngx-audio-player-master/src/environments/environment.prod.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ngx-audio-player-master/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/ngx-audio-player-master/src/environments/environment.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ngx-audio-player-master" />
+  </component>
+  <component name="ProjectId" id="1VWy9MMnIayHP1fCxZw7iBPaJ6w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="F:\CHINH BEO\FrontEnd Phat Trien\ngx-audio-player-master\node_modules\typescript\lib" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02afe495-d3d6-4a3a-b8aa-f74d94778632" name="Default Changelist" comment="" />
+      <created>1577382992326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577382992326</updated>
+      <workItem from="1577382993705" duration="1206000" />
+      <workItem from="1577409782173" duration="1180000" />
+      <workItem from="1577429806857" duration="6015000" />
+      <workItem from="1577623935818" duration="2254000" />
+      <workItem from="1577799532710" duration="5446000" />
+      <workItem from="1577988333043" duration="2304000" />
+      <workItem from="1578039869347" duration="9244000" />
+      <workItem from="1578125394534" duration="1282000" />
+      <workItem from="1578128177217" duration="1458000" />
+      <workItem from="1578129656050" duration="3972000" />
+      <workItem from="1578232452594" duration="5201000" />
+      <workItem from="1578273476323" duration="4164000" />
+      <workItem from="1578277858654" duration="817000" />
+      <workItem from="1578361452738" duration="771000" />
+      <workItem from="1578820866705" duration="1266000" />
+      <workItem from="1579160519271" duration="66000" />
+      <workItem from="1580439371055" duration="2474000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="129" y="121" key="FileChooserDialogImpl" timestamp="1579160586286">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="129" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1579160586286" />
+  </component>
+</project>
